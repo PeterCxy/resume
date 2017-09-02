@@ -6,9 +6,9 @@ var path = require('path');
 
 ghpages.publish(path.join(__dirname, 'dist'), {
     branch: 'master',
-    repo: 'git@github.com:undownding/undownding.github.io.git',
+    repo: 'git@github.com:PeterCxy/resume.git',
     user: {
-        name: 'undownding',
-        email: 'undownding@gmail.com'
+        name: 'PeterCxy',
+        email: 'peter@typeblog.net'
     }
 },function (err) { console.log(err) });
