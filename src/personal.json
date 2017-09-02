@@ -12,6 +12,12 @@
     { "key": "Android", "value": 60 },
     { "key": "node.js", "value": 60 },
     { "key": "Front-End", "value": 40 },
+    { "key": "Design", "value": 40 },
+    { "key": "CoffeeScript", "value": 65 },
+    { "key": "TypeScript", "value": 60 },
+    { "key": "JavaScript", "value": 70 },
+    { "key": "Java", "value": 50 },
+    { "key": "Go", "value": 35 },
     { "key": "Linux", "value": 75 }
   ],
   "github": "PeterCxy",
