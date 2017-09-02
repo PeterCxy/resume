@@ -1,67 +1,40 @@
 {
-  "page_title": "Resume of UnDownDing",
-  "ga_id": "UA-59289354-2",
-  "name": "UnDownDing",
-  "tag": "Pre-Fullstack Engineer",
-  "presentation": "As a Senior Android Engineer worked at ezbuy.com. Interested in Docker / node.js / kotlin and Material Design. Using Docker in production enviorment. ",
-  "mobile_phone": "+86-185-0019-2074",
-  "wechat_id":"+86-185-0019-2074",
-  "personal_mail": "undownding@gmail.com",
-  "work_mail": "zhaokunan@ezbuy.com",
+  "page_title": "Resume of PeterCxy (Xiyu Cai)",
+  "ga_id": "",
+  "name": "PeterCxy (Xiyu Cai)",
+  "tag": "A future full-stack engineer",
+  "presentation": "An undergraduate student at Xi'an Jiaotong-Liverpool University majoring in Information & Computing Science. An Android developer, Node.js developer and frontend developer. Believer of Free Software and contributor of many opensource projects. Love hacking and learning new things about computers, especially different programming languages.",
+  "mobile_phone": "+1 (573) 575-8717 (Google Voice)",
+  "wechat_id":"KawaiYuion",
+  "personal_mail": "peter@typeblog.net",
+  "work_mail": "xiyu.cai16@student.xjtlu.edu.cn",
   "skills": [
-    { "key": "Android", "value": 85 },
-    { "key": "Material Design", "value": 70 },
-    { "key": "Kotlin", "value": 80 },
+    { "key": "Android", "value": 60 },
     { "key": "node.js", "value": 60 },
-    { "key": "MySQL", "value": 70 },
     { "key": "Front-End", "value": 40 },
-    { "key": "Docker", "value": 80 },
-    { "key": "Gradle", "value": 85 }
+    { "key": "Linux", "value": 75 }
   ],
-  "github": "undownding",
-  "blog": "http://undownding.me/",
+  "github": "PeterCxy",
+  "blog": "https://typeblog.net",
   "introduction": [
-    "5 年经验 Android 开发者，其中 2 年 Kotlin 经验（从大约 0.8 版本开始使用），3 年带领 5 人以下研发小组经验。<br><br>入门级全栈工程师，Bootstrap / ReactNative 略有接触，Node.js 可以写出临时解决问题的脚本或后端业务，此页面正是使用 gulp + ejs 构建 : )<br><br>熟悉敏捷开发相关的实践和理论，推崇看板方法以及 TDD 模式推动研发工作。",
-    "Linux / GNOME3 / vim 用户，Intellij Idea 正版付费用户，熟练使用 Git-Flow / GitHub-Flow 工作流。<br><br>对 Docker 有比较深入的理解，曾使用 Docker Remote Api 开发过 Android 应用。<br><br>热衷于开源项目，为 <a href=\"http://www.mokeedev.com/\"><font color=\"#5da4d9\">MoKee Open Source Project</font></a> 数个关键技术点的开发者之一，<a href=\"https://nodejs.org/zh-cn/\"><font color=\"#5da4d9\">Node.js 官方网站</font></a> 中文翻译贡献者，Node.js 基金会成员。"
+    "I am currently an undergraducate student at XJTLU majoring in Information & Computing Science. During my primary schoool years, I began getting interested in computers, especially programming and engineering thanks to one of my primary school teachers who introduced me to the Linux world. I attempted to start my own business (selling hosting service) in middle school years, and though failed, a lot of experience in operating and maintaining Linux servers was gained through it.",
+    "After entering high school, I switched to Linux as my daily OS. I wrote my first Android application, <a href='https://github.com/PaperAirplane-Dev-Team/BlackLight'>BlackLight</a>, an alternative Sina Weibo client for Androidi which was later transferred to <a href='https://github.com/PaperAirplane-Dev-Team'>PaperAirplane</a> as a team project. During this, my passion for hacking, developing and learning were more than motivated and that was for now my most productive time - I also learnt node.js and frontend for that project, since there was only me as the main contributor.",
+    "Currently, I am trying to become a full-stack engineer in the future while mainly focusing on B/S technology (Node.js/Python/Go/Java/Nim + HTML/JS/CSS). I am also capable of mobile developement if necessary. Contact me if interested in offering me a position or just want a chat."
   ],
   "work": [
     {
-      "title": "Android Engineer",
-      "company": "SujiTech",
-      "date": "APR 2017 - NOW",
-      "text":"负责规划 Pandas QA 的 Android 客户端开发，实现产品功能以及提出产品规划上的建议。<br><br>"
-    },
-    {
-      "title": "Client Engineer",
-      "company": "风暴云文档",
-      "date": "AUG 2016 - FEB 2017",
-      "text":"在朋友的创业项目担任客户端工程师，分别使用原生 Android 以及 ReactNative 实现两个版本的客户端。使用 Node.js 帮助处理一些后端业务以及协助把其他业务处理成 Docker 镜像并部署到服务器。<br><br>"
-    },
-    {
-      "title": "Android Senior Engineer",
-      "company": "ezbuy.com",
-      "date": "JAN 2016 - AUG 2016",
-      "text":"参与 EzBuy Android 客户端的日常开发工作以及制定工作计划，以及负责 CI 系统的 Docker 镜像维护 / 架构设计 / 各种代码优化以及重构旧代码等工作内容。<br><br>"
-    },
-    {
-      "title": "Android Team Leader",
-      "company": "GitCafe",
-      "date": "MAY 2014 - OCT 2015",
-      "text": "负责 GitCafe Android 客户端的开发以及工作协调。与 Ruby 后端写的 REST API 通信并通过 GSON / DataBinder 等第三方开源库把服务器内容以 MVP + MVVM 方式展示到客户端。"
+      "title": "DevOps",
+      "company": "PaperAirplane Dev Team",
+      "date": "2014 - NOW",
+      "text": "A team built by students. I am one of the main contributors and developer of BlackLight as a project of the team.<br><br>"
     }
   ],
   "education": [
     {
-      "professional": "Communication Engineering",
-      "school": "SZPT",
-      "date": "SEP 2009 - JUN 2012",
-      "text": "在深圳职业技术学院学习通信工程专业课程，大学期间自学了 C# 和 Java。"
-    },
-    {
-      "professional": "Physical",
-      "school": "Guangdong Zhaoqing Middle School",
-      "date": "SEP 2003 - JUN 2009",
-      "text": "中学期间开始学习编程并参加 OI 竞赛，取得 NOIP 市到国家级奖项若干次。"
+      "professional": "Information & Computing Science",
+      "school": "Xi'an Jiaotong-Liverpool University",
+      "date": "2016 - NOW",
+      "text": ""
     }
   ]
 }
