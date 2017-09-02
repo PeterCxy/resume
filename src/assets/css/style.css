@@ -13,6 +13,9 @@ p {
 a {
   color: #ffffff;
 }
+.custom-content-wrapper a {
+  color: #5da4d9;
+}
 /* style for wow animation*/
 .a1 {
   visibility: visible;
